@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Hello Dunia"</string>
+    <string name="enter_your_name">Masuk nama anda</string>
+    <string name="submit">Hantar</string>
+    <string name="exit">Keluar</string>
+    <string name="are_you_sure_you_want_to_quit_">Adakah anda pasti untuk keluar?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    
+</resources>
